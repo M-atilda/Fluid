@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :potential_flow_simulator, key: :value
+#     config :incompressible_flow, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:potential_flow_simulator, :key)
+#     Application.get_env(:incompressible_flow, :key)
 #
 # You can also configure a 3rd-party app:
 #

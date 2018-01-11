@@ -1,9 +1,9 @@
-defmodule PotentialFlowSimulator.Mixfile do
+defmodule IncompressibleFlow.Mixfile do
   use Mix.Project
 
   def project do
     [
-      app: :potential_flow_simulator,
+      app: :incompressible_flow,
       version: "0.1.0",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
